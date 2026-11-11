@@ -59,6 +59,10 @@ Requisitos: Windows 10 ou 11 (64 bits). Para converter Word → PDF, o Microsoft
 - **Conferir planta × memorial**: lado a lado, com cada medida, ângulo, coordenada, área e confrontante; loteamento
   lote a lote; planta em PDF do CAD lida pela **tabela de azimutes e distâncias** (várias tabelas por folha, faixa
   de servidão dentro da gleba, coordenadas escritas no desenho conferidas).
+- **Comparar descrições**: o imóvel antes e depois (original e retificada; situação atual, intermediária e
+  pretendida) lado a lado na mesma escala ou um sobre o outro, cada situação de uma cor, com a tabela do que mudou
+  (área, medidas, confrontantes); imóveis vizinhos encaixados no mesmo desenho pela divisa que os textos descrevem;
+  relatório em PDF.
 - **Diagnósticos**: vértice com coordenada digitada errada no memorial georreferenciado (com a coordenada provável e
   o padrão do erro, conferido pela área), distância ou azimute digitado errado, matrícula de outro cartório,
   descrição que admite mais de uma forma ("Forma indefinida", com exemplos e a faixa de cada ângulo).
