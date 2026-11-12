@@ -65,6 +65,8 @@ Requisitos: Windows 10 ou 11 (64 bits). Para converter Word → PDF, o Microsoft
   relatório em PDF.
 - **Confrontantes no desenho**: o nome de cada confrontante do lado de fora do lado dele (com a matrícula, quando
   há), sem texto sobre texto; uma caixa esconde e mostra. O desenho gira (botões, Ctrl+rodinha ou R).
+- **Corrigir o texto lido**: o texto lido do memorial (OCR) com as leituras duvidosas marcadas, para corrigir à mão
+  e redesenhar; quando o caminhamento não fecha, o aviso aponta a medida que faria fechar.
 - **Croqui**: descrição antiga com lado sem medida ("segue córrego acima até a divisa de Fulano") ou sem os ângulos
   ganha um croqui avisado, só para dar ideia; não é a planta e não sai em DXF, PDF nem memorial.
 - **Diagnósticos**: vértice com coordenada digitada errada no memorial georreferenciado (com a coordenada provável e
