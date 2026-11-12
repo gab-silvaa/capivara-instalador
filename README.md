@@ -63,6 +63,10 @@ Requisitos: Windows 10 ou 11 (64 bits). Para converter Word → PDF, o Microsoft
   pretendida) lado a lado na mesma escala ou um sobre o outro, cada situação de uma cor, com a tabela do que mudou
   (área, medidas, confrontantes); imóveis vizinhos encaixados no mesmo desenho pela divisa que os textos descrevem;
   relatório em PDF.
+- **Confrontantes no desenho**: o nome de cada confrontante do lado de fora do lado dele (com a matrícula, quando
+  há), sem texto sobre texto; uma caixa esconde e mostra. O desenho gira (botões, Ctrl+rodinha ou R).
+- **Croqui**: descrição antiga com lado sem medida ("segue córrego acima até a divisa de Fulano") ou sem os ângulos
+  ganha um croqui avisado, só para dar ideia; não é a planta e não sai em DXF, PDF nem memorial.
 - **Diagnósticos**: vértice com coordenada digitada errada no memorial georreferenciado (com a coordenada provável e
   o padrão do erro, conferido pela área), distância ou azimute digitado errado, matrícula de outro cartório,
   descrição que admite mais de uma forma ("Forma indefinida", com exemplos e a faixa de cada ângulo).
